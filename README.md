@@ -17,5 +17,5 @@ use to format virtually any document.
 
 [link to file help.md](HELP.md)
 
-![logo](https://www.markdownguide.org/assets/images/markdown-mark-white.svg)
+![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
  
